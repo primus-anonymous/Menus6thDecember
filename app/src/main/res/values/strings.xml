@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Menus6thDecember</string>
+    <string name="action_add">Add</string>
+    <string name="action_delete">Delete</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="some_title">Some title</string>
+    <string name="title_activity_nav_drawer">NavDrawerActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="feature_one">Feature One</string>
+    <string name="feature_two">Feature Two</string>
+    <string name="feature_three">Feature Three</string>
+</resources>
